@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.8/20986
 // Filename: NSH-UI.ggsk
-// Generated 2025-07-21T21:11:04
+// Generated 2025-07-21T21:24:37
 
 function pano2vrSkin(player,base) {
 	player.addVariable('Room_visibility_1F', 2, false, { ignoreInState: 0  });
